@@ -1,1 +1,10 @@
 /* write your code here */
+body {
+    align-items: center;
+    justify-content:  center;
+}
+
+.centre {
+    align-items: center;
+    justify-content:  center;
+}
